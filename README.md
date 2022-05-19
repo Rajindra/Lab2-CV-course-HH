@@ -3,7 +3,7 @@ This repository contains the lab 2 for the course "Fundamentals of Computer Visi
 
 In this lab we will go through some famous CV algorithm for feature extraction, like SIFT, HOG and LBP
 
-In order to do the lab, go to the file "Lab2_Color_and_Convolutions.ipynb" in this github repository and click on the "Open in Colab" bar to execute all the code in Google Colab.
+In order to do the lab, go to the file "Lab2_Feature_Extraction.ipynb" in this github repository and click on the "Open in Colab" bar to execute all the code in Google Colab.
 
 If you want to execute this code in your own computer instead of in Google Colab, we recommend to install Anaconda (both for this lab and for the following ones) and install the packages needed for this lab. Matplotlib, Numpy, OpenCV, scikit-image and Jupyter Notebook.
 
